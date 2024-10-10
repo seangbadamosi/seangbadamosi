@@ -9,9 +9,9 @@ To check more about my work check at my [portfolio](https://portfolio-1-seven-le
 
 
 #### Skills
-adatability
-abilty to work under pressure
-graphics designer
+* Adatability
+* Abilty to work under pressure
+* Graphics designer
 
 #### Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
