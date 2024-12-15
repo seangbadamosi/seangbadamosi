@@ -1,5 +1,5 @@
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/634aea933c9d3ddd874a575e26236d06a1b3a1ac939eea632a73b354c40df996/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d30306666666626746578743d2673656374696f6e3d686561646572"><img src="https://camo.githubusercontent.com/634aea933c9d3ddd874a575e26236d06a1b3a1ac939eea632a73b354c40df996/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d30306666666626746578743d2673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=00ffff&amp;text=&amp;section=header" style="max-width: 100%;"></a>
- Hi there, my name is Sean Gbadamosi.
+<img src="https://camo.githubusercontent.com/634aea933c9d3ddd874a575e26236d06a1b3a1ac939eea632a73b354c40df996/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d30306666666626746578743d2673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=00ffff&amp;text=&amp;section=header" style="max-width: 100%;">
+Hi there, my name is Sean Gbadamosi.
 
 I am a frontend web developer, my goal is to make an interactive
 website and a good user experience when visitng website i make, thereby making my website easy to navigate and use.
