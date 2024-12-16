@@ -35,7 +35,7 @@ To check more about my work check at my [portfolio](https://seangbadamosi.vercel
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 #### My Github Stats
- [![Tee's github stats](https://bad-apple-github-readme.vercel.app/api?username=seangbadamosi&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00ffff)](#)
+ [![sean's github stats](https://bad-apple-github-readme.vercel.app/api?username=seangbadamosi&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00ffff)](#)
 
   
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=seangbadamosi&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
