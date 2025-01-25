@@ -11,10 +11,11 @@ To check more about my work check at my [portfolio](https://seangbadamosi.vercel
 
 
 ### Skills
-* Adatability
 * Abilty to work under pressure
-* Graphics designer
-* Proficient in creating responsive webpages
+* Adatability
+* Adept at creating responsive webpages
+* Frontend Developer
+* Proficient in Version Control and Collaboration using GitHub
 
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
