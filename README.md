@@ -43,4 +43,6 @@ To check more about my work check at my [portfolio](https://seangbadamosi.vercel
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=seangbadamosi&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
 
 
-<img src="https://camo.githubusercontent.com/3d6557fc6a6869b680c3bc0e4755fda87aa5591d2d6f9f9c9a1961993e58d1f8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d30306666666626746578743d2673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=00ffff&amp;text=&amp;section=footer" style="max-width: 100%;">
+<p align="left">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1F84E2&text=&section=footer"/>
+</p>
