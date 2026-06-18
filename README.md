@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1F84E2&text=&section=header"/>
 </p>
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sean+Gbadamosi!;" />
 </h1>
 
@@ -38,8 +38,7 @@ To check more about my work check at my [portfolio](https://seangbadamosi.vercel
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 #### My Github Stats
- [![sean's github stats](https://bad-apple-github-readme.vercel.app/api?username=seangbadamosi&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00ffff)](#)
-
+![sean's github stats](https://github-readme-stats.vercel.app/api?username=seangbadamosi&count_private=true&show_icons=true&theme=algolia)
   
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=seangbadamosi&layout=compact&count_private=true&theme=blue-green&title_color=00ffff)](#)
 
